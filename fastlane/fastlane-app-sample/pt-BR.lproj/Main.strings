@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Fazer login"; ObjectID = "CGO-P5-IsS"; */
+"CGO-P5-IsS.normalTitle" = "Fazer login";
+
+/* Class = "UILabel"; text = "LOGIN"; ObjectID = "F9e-cg-ciK"; */
+"F9e-cg-ciK.text" = "LOGIN";
+
+/* Class = "UITextField"; placeholder = "senha"; ObjectID = "Md2-L2-3KI"; */
+"Md2-L2-3KI.placeholder" = "senha";
+
+/* Class = "UILabel"; text = "Bem vindo a area logada"; ObjectID = "vyN-k0-IuU"; */
+"vyN-k0-IuU.text" = "Bem vindo a area logada";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "yO9-AW-EA5"; */
+"yO9-AW-EA5.placeholder" = "email";

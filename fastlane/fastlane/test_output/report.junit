@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites tests='9' failures='0'>
+  <testsuite name='fastlaneTests.UserTests' tests='4' failures='0'>
+    <testcase classname='fastlaneTests.UserTests' name='testInvalidLoginWithInvalidEmailAndInvalidPasswrod' time='0.012'/>
+    <testcase classname='fastlaneTests.UserTests' name='testInvalidLoginWithInvalidEmailAndValidPasswrod' time='0.001'/>
+    <testcase classname='fastlaneTests.UserTests' name='testInvalidLoginWithValidEmailAndInvaidPassword' time='0.001'/>
+    <testcase classname='fastlaneTests.UserTests' name='testValidUserLogin' time='0.000'/>
+  </testsuite>
+  <testsuite name='fastlaneTests.fastlaneTests' tests='2' failures='0'>
+    <testcase classname='fastlaneTests.fastlaneTests' name='testExample' time='0.000'/>
+    <testcase classname='fastlaneTests.fastlaneTests' name='testPerformanceExample' time='0.262'/>
+  </testsuite>
+  <testsuite name='fastlaneUITests.fastlaneUITests' tests='3' failures='0'>
+    <testcase classname='fastlaneUITests.fastlaneUITests' name='testCorrectLogin' time='7.682'/>
+    <testcase classname='fastlaneUITests.fastlaneUITests' name='testEmptyLogin' time='5.738'/>
+    <testcase classname='fastlaneUITests.fastlaneUITests' name='testIncorrectLogin' time='7.301'/>
+  </testsuite>
+</testsuites>
